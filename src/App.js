@@ -1,5 +1,3 @@
-import { useEffect, useReducer } from "react";
-
 import Error from "./components/Error";
 import FinishedScreen from "./components/FinishedScreen";
 import Footer from "./components/Footer";
